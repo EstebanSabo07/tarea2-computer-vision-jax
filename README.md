@@ -17,6 +17,11 @@ Este proyecto implementa un sistema de clasificación de imágenes utilizando **
 
 ---
 
+## Link de colab
+
+https://colab.research.google.com/drive/1TL8hrN4_XtGq031vOm8HkmIAM66IhqlF?usp=sharing
+
+
 ## Estructura del Proyecto
 
 ```
